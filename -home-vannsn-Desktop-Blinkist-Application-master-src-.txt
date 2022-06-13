@@ -1,0 +1,1 @@
+/home/vannsn/Desktop/Blinkist-Application-master/src/setupTests.ts
